@@ -13,4 +13,4 @@ Html, Css, Javascript, React
 - react hooks를 이용한 상태 관리
 
 ### 4. 프로젝트 배포 링크
-https://jocular-paprenjak-6e2d89.netlify.app/
+https://react-crud-project-ehddn.netlify.app/
