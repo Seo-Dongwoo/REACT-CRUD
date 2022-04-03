@@ -9,7 +9,7 @@ Html, Css, Javascript, React
 
 ### 3. 주요 기능
 - react-router-dom을 이용해 페이지끼리 연결
-- reactstrap을 이용한 디자인
+- reactstrap을 이용한  디자인
 - react hooks를 이용한 상태 관리
 
 ### 4. 프로젝트 배포 링크
