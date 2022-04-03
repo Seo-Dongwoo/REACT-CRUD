@@ -1,4 +1,4 @@
-# React로 CRUD만들기 
+# React로 CRUD 만들기 
 
 ### 1. 프로젝트 전 준비 작업
 - react hooks에 대해 공부 & 프로젝트로 연습
